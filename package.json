@@ -1,0 +1,21 @@
+{
+  "name": "forestry",
+  "displayName": "Forestry",
+  "description": "Dark+ theme with green accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forestry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forestry-color-theme.json"
+      }
+    ]
+  }
+}
